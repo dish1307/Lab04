@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lab04</string>
+    <string name="enter_the_description">Enter the description</string>
+    <string name="enter_the_title">Enter the title</string>
+    <string name="add_new_item">Add new item</string>
+    <string name="add_note">Add Note</string>
+    <string name="todo">TODO</string>
+    <string name="add_notes">Add Notes</string>
+    <string name="notes">Notes</string>
+    <string name="todoo">TODO</string>
+    <string name="title">Title</string>
+    <string name="content">Content</string>
+</resources>
